@@ -28,7 +28,7 @@ url: "https://samwarring.github.io" # the base hostname & protocol for your site
 github_username:  samwarring
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
