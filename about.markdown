@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Sam. This is my blog.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I've been programming in C++ since 2009, and I just keep going. Despite all the mean things that have been said about it (and I'm guilty as well), it remains my favorite programming language. Working with C++, I soon discovered CMake, which has also become another fascination of mine. In this blog, expect to read a lot about them both!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I currently live in San Francisco, CA where I work remotely full-time as a Software Engineer at a startup. When I'm not programming for work, I'm probably programming for fun. And when I'm not doing either of those, I'm out on a walk, maintaining a trail, cooking, or just watching Netflix like the rest of us! My favorite musician is [Jonathan Richman](https://youtu.be/XjFU98mEem4).
